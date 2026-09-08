@@ -1,0 +1,5 @@
+-A base/template for a working chatbot in python.
+-This uses gemini so please do make an account on google to use it 
+-The instruction are in the files itself, read the notes in the python and .env file
+-p.s: Do not edit the files directly, fork this repo. 
+-You can use this however you want, if you're going to release content using this, please do give credit
